@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "name": "Coop's Performance Training",
+    "theme": "custom",
+    "font": "Oswald",
+    "colors": {
+      "primary": "#004d26",
+      "accent": "#d4af37",
+      "text": "#ffffff",
+      "background": "#000000"
+    }
+  },
+  "sections": [
+    {
+      "id": "hero",
+      "type": "hero",
+      "background": {
+        "image": "football_field_placeholder.jpg",
+        "overlay": 0.5
+      },
+      "content": [
+        {
+          "type": "heading",
+          "text": "COOP’S PERFORMANCE TRAINING",
+          "fontSize": 48,
+          "color": "#ffffff"
+        },
+        {
+          "type": "subheading",
+          "text": "Train Towards A Better YOU!",
+          "fontSize": 28,
+          "color": "#d4af37"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elite football performance training for every season — off-season, in-season, and game day.",
+          "fontSize": 18,
+          "color": "#ffffff"
+        },
+        {
+          "type": "button",
+          "text": "Start My Free Consultation",
+          "link": "YOUR_GOOGLE_FORM_LINK",
+          "newTab": true,
+          "backgroundColor": "#d4af37",
+          "textColor": "#004d26"
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "type": "section",
+      "background": {
+        "image": "gym_field_placeholder.jpg",
+        "overlay": 0.6
+      },
+      "content": [
+        {
+          "type": "heading",
+          "text": "About Coach Coop",
+          "fontSize": 36,
+          "color": "#ffffff"
+        },
+        {
+          "type": "paragraph",
+          "text": "I’m Ernest “Coach Coop” Cooper — football performance coach dedicated to helping athletes stay strong, fast, and injury-free all year.\n\nWhether you’re pushing through the off-season grind or maintaining your edge mid-season, I’ll help you perform at your best every time you hit the field.\n\n\"Empty the Tank!\"",
+          "fontSize": 18,
+          "color": "#ffffff"
+        }
+      ]
+    },
+    {
+      "id": "programs",
+      "type": "section",
+      "backgroundColor": "#004d26",
+      "content": [
+        {
+          "type": "card",
+          "title": "Off-Season Training",
+          "text": "Build explosive power, speed, and conditioning to dominate when the season starts.",
+          "button": {
+            "text": "Join This Program",
+            "link": "YOUR_GOOGLE_FORM_LINK",
+            "newTab": true,
+            "backgroundColor": "#d4af37",
+            "textColor": "#004d26"
+          }
+        },
+        {
+          "type": "card",
+          "title": "In-Season Performance",
+          "text": "Stay sharp, mobile, and injury-free while maintaining peak performance all season long.",
+          "button": {
+            "text": "Join This Program",
+            "link": "YOUR_GOOGLE_FORM_LINK",
+            "newTab": true,
+            "backgroundColor": "#d4af37",
+            "textColor": "#004d26"
+          }
+        },
+        {
+          "type": "card",
+          "title": "1-on-1 Skill Development",
+          "text": "Position-specific drills and game-day preparation customized to your needs.",
+          "button": {
+            "text": "Join This Program",
+            "link": "YOUR_GOOGLE_FORM_LINK",
+            "newTab": true,
+            "backgroundColor": "#d4af37",
+            "textColor": "#004d26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "testimonials",
+      "type": "section",
+      "background": {
+        "image": "stadium_fade_placeholder.jpg",
+        "overlay": 0.7
+      },
+      "content": [
+        {
+          "type": "heading",
+          "text": "What Athletes Are Saying",
+          "fontSize": 36,
+          "color": "#ffffff"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Coach Coop helped me build real confidence and strength. My season was my best yet!\" – Jayden, Varsity WR\n\n\"Training with Coop changed how I move — faster, smarter, and no injuries all year.\" – Marcus, DB",
+          "fontSize": 18,
+          "color": "#d4af37"
+        }
+      ]
+    },
+    {
+      "id": "cta",
+      "type": "section",
+      "background": {
+        "image": "stadium_lights_placeholder.jpg",
+        "overlay": 0.6
+      },
+      "content": [
+        {
+          "type": "heading",
+          "text": "Ready to Level Up Your Game?",
+          "fontSize": 36,
+          "color": "#ffffff"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fill out the form and schedule your 15-minute Free Consultation to start building your game plan.\n\nAfter submission, you’ll be able to schedule directly via Calendly — limited spots available!",
+          "fontSize": 18,
+          "color": "#ffffff"
+        },
+        {
+          "type": "button",
+          "text": "Apply Now",
+          "link": "YOUR_GOOGLE_FORM_LINK",
+          "newTab": true,
+          "backgroundColor": "#d4af37",
+          "textColor": "#004d26"
+        }
+      ]
+    },
+    {
+      "id": "footer",
+      "type": "footer",
+      "backgroundColor": "#000000",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "© 2025 Coop’s Performance Training | All Rights Reserved",
+          "fontSize": 14,
+          "color": "#ffffff"
+        },
+        {
+          "type": "socialIcons",
+          "links": [
+            "INSTAGRAM_LINK",
+            "TIKTOK_LINK",
+            "YOUTUBE_LINK"
+          ]
+        }
+      ]
+    }
+  ]
+}
